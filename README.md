@@ -6,7 +6,7 @@ Hi there 👋
 
 This is Feli, a full stack developer
 
-- 🔭 I’m currently working on http://qiwu.ai
+- 🔭 I’m currently working on a Chinese smart assistant http://qiwu.ai
 - 📫 You can reach me at https://imvery.moe/
 
 <!--
