@@ -4,10 +4,10 @@
 
 Hi there 👋
 
-This is Feli, a developer base 
+This is Feli, a full stack developer
 
 - 🔭 I’m currently working on http://qiwu.ai
-- 🌱 I’m currently learning 
+- 📫 You can reach me at https://imvery.moe/
 
 <!--
 **noahzark/noahzark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
