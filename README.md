@@ -4,7 +4,7 @@
 
 Hi there 👋
 
-This is Feli, a full stack developer
+This is Feli, a full stack engineer
 
 - 🔭 I’m currently working on a Chinese smart assistant http://qiwu.ai
 - 💬 You can reach me at https://imvery.moe/
