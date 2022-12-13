@@ -2,8 +2,6 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=noahzark&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahzark" />
-
 Hi there 👋
 
 This is Feli, a full stack engineer
@@ -11,6 +9,8 @@ This is Feli, a full stack engineer
 - 🔭 I’m currently working on a Chinese smart assistant http://qiwu.ai
 - 💬 You can reach me at https://imvery.moe/
 - 📫 Email me your resume @ fangzhoulong#qiwu.ai (replace #) if you are experienced in Java or algorithms/data structure and want to work on something interesting.
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahzark" />
 
 <!--
 **noahzark/noahzark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
