@@ -6,9 +6,9 @@ Hi there 👋
 
 This is Feli, a full stack engineer
 
-- 🔭 I’m currently working on a Chinese smart assistant http://qiwu.ai
+- 🔭 I’m currently working on a Chinese smart assistant http://qiwu.ai and interactive audio novel http://developers.qiwu.ai/
 - 💬 You can reach me at https://imvery.moe/
-- 📫 Email me your resume @ fangzhoulong#qiwu.ai (replace #) if you are experienced in Java or algorithms/data structure and want to work on something interesting.
+- 📫 Email me your resume @ fangzhoulong#qiwu.ai (replace #) if you are experienced in Java/Python or algorithms/data structure and want to work on something interesting.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahzark" />
 
