@@ -10,6 +10,9 @@ This is Feli, a full stack engineer
 - 💬 You can reach me at https://imvery.moe/
 - 📫 Email me your resume @ fangzhoulong#qiwu.ai (replace #) if you are experienced in Java/Python or algorithms/data structure and want to work on something interesting.
 
+Now I'm creating projects on AFdian, you can support me [here](https://afdian.net/a/noahzark)
+现已入驻爱发电提供录播、机器人服务，[点击这里](https://afdian.net/a/noahzark) 进行支持
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahzark" />
 
 <!--
